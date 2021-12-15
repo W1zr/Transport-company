@@ -1,0 +1,38 @@
+.servinfo__inner2,
+.servinfo__inner1,
+.servinfo__inner {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0px 40px;
+}
+
+.servinfo__title {
+    color: #ba0000;
+    font-weight: 600;
+    line-height: 52px;
+    font-size: 44px;
+}
+
+.servinfo__left2,
+.servinfo__left {
+    padding: 0px 30px 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+.servinfo__right2,
+.servinfo__left1,
+.servinfo__right {
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.servinfo__right1 {
+    text-align: right;
+    padding-left: 18px;
+    padding-right: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+}
